@@ -29,3 +29,7 @@ Audio codec: copy (preserve original audio codec and bit rate)
 Move MP4 metadata and make the video stream start playing before the file is completely downloaded (faststart)
 Note: Compressing a video can take a while, especially for larger files.
 ```
+
+## Test
+Compressed this Youtube https://www.youtube.com/watch?v=FfM3VPj7a9o Vedio with a size of 371MB to 50MB.
+![image](https://user-images.githubusercontent.com/122678904/227637600-e0ad70c5-4054-4f15-8970-d99a9610727e.png)
